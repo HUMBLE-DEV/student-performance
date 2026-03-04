@@ -52,7 +52,7 @@ Watch the full demo here: https://www.linkedin.com/posts/emmanuel-ntim-baidoo_da
 ## 🚀 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/student-performance.git
+git clone https://github.com/HUMBLE-DEV/student-performance
 
 # Navigate into the project folder
 cd student-performance
